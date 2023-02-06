@@ -1,6 +1,4 @@
 ---
-A Git-Hub Test: Welcome to my Blog!!!
+title: Welcome to my blog
 ---
 
-# Header 1 - Introduction
-I should type something here later
