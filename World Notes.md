@@ -114,11 +114,11 @@ On the second floor, there is a private quarters that is reserved for Servi and 
 ## Cult of the Arcane
 The Cult of the Arcane is a secretive organization made up of powerful magic users who believe in harnessing the power of the space-time rift left by the time gods' soon-to-be death. Their motivations are complex and multifaceted.
 
-    Power and Influence: The cult members believe that the power of the rift can be used to gain immense personal power and control over the realm. They see this as a way to achieve wealth, prestige, and political influence.
+- Power and Influence: The cult members believe that the power of the rift can be used to gain immense personal power and control over the realm. They see this as a way to achieve wealth, prestige, and political influence.
 
-    Knowledge and Understanding: Some members of the cult believe that the rift is a doorway to a greater understanding of magic and the universe. They believe that by studying the rift, they can unlock secrets and knowledge that has been hidden from the world for eons.
+- Knowledge and Understanding: Some members of the cult believe that the rift is a doorway to a greater understanding of magic and the universe. They believe that by studying the rift, they can unlock secrets and knowledge that has been hidden from the world for eons.
 
-    The End of the World: Some members of the cult believe that the rift will lead to the end of the world. They believe that by harnessing the power of the rift, they can control the outcome and ensure the survival of themself.
+- The End of the World: Some members of the cult believe that the rift will lead to the end of the world. They believe that by harnessing the power of the rift, they can control the outcome and ensure the survival of themself.
 
 The Cult of the Arcane operates in secret, using their magical abilities to mask their activities and keep their true motives hidden from the rest of the world. They are led by a mysterious figure known only as the High Sorcerer, who commands a council of powerful magic users and manages the cult's resources. The cult has a number of agents and spies who gather information and carry out their orders, and they are rumored to have powerful allies within the government and other powerful organizations.
 
