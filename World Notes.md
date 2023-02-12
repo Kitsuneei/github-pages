@@ -127,7 +127,7 @@ The cult is opposed to the dnd characters because they view them as a threat to 
 Overall, the Cult of the Arcane is a powerful and mysterious organization that poses a significant threat to the dnd characters and the realm. Their motivations and goals are complex, and they will stop at nothing to achieve their objectives. The characters will need to be careful and strategic in their dealings with the cult, as a misstep could have disastrous consequences.
 
 # Allies
-## Bramblethorn
+## Bramblethorn, Merchants of Handeldok
 Bramblethorn is a black market group that operates in the shadows of the city, dealing in goods and services that are not always above board. They are known for their cunning, their resources, and their ability to get their hands on just about anything that their clients might desire. They are highly secretive, with many rumors and legends circulating about the group and its members.
 
 Despite their seedy reputation, Bramblethorn has a strict code of conduct and a strict vetting process for new members. They are highly organized, with a hierarchical structure and clear lines of authority. They are also well-equipped, with access to weapons, magic, and other resources that allow them to protect their interests and pursue their goals.
