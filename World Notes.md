@@ -35,7 +35,7 @@ Worshipers of the Dragon Spirit believe that they can gain insight and enlighten
 The Dragon Spirit is also seen as an embodiment of the Earth, reflecting the knowledge and wisdom that has been accumulated on the planet over time. This deity is unique in that little is known about its true nature and motivations, making it a source of both mystery and awe for its followers. Despite the limited information available, the Dragon Spirit continues to be a popular deity, with a dedicated following among those who seek knowledge and expertise in the fields of craftsmanship.
 
 ## The Star Child
-The Star Child, also known as Halen, is an enigmatic deity with a limited following and limited information available about their nature and domains. This deity is shrouded in mystery, leading to a sense of unpredictability and a potential for adventure and exploration as players seek to uncover the truth about their motivations and power.
+The Star Child, is an enigmatic deity with a limited following and limited information available about their nature and domains. This deity is shrouded in mystery, leading to a sense of unpredictability and a potential for adventure and exploration as players seek to uncover the truth about their motivations and power.
 
 Despite being a less well-known deity, the Star Child still holds the potential for significant impact on the world. Their lack of defined domains and unknown nature makes them both a source of wonder and fear, as the full extent of their abilities remains unknown.
 
