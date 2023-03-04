@@ -71,7 +71,9 @@ Finally, the Docks are located along the city's river and they are the hub of Vo
 In conclusion, Vomredek is a city of contrasts, with its wealthy and grand Upper City, its bustling and busy Lower City, and its dark and dangerous Cabal Alley. Despite its flaws, Vomredek is an important city in the realm and a hub of commerce, religion, and learning.
 
 ### Cabal Alley
+
 #### The Blackened Flask
+
 A notorious tavern located in the heart of Cabal Alley, known for its shady clientele and illegal activities. The tavern is dimly lit, with rough wooden tables and benches. It's a popular gathering place for smugglers, thieves, and other criminal types. The main 
 
 #### The Shadow Market
@@ -130,6 +132,7 @@ On the second floor, there is a private quarters that is reserved for Servi and 
 # Enemies
 
 ## Cult of the Arcane
+
 The Cult of the Arcane is a secretive organization made up of powerful magic users who believe in harnessing the power of the space-time rift left by the time gods' soon-to-be death. Their motivations are complex and multifaceted.
 
 - Power and Influence: The cult members believe that the power of the rift can be used to gain immense personal power and control over the realm. They see this as a way to achieve wealth, prestige, and political influence.
